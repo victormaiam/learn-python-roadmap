@@ -21,11 +21,11 @@ If you are starting on week 0, skip any tasks that are repeated in later weeks&m
 
 ### Week 1
 
-1. [x] Read Lean Python, Chapters 1-2
-2. [x] Install Python 3 / configure local development environment
-3. [x] Read Lean Python, Chapters 3-6
-4. [x] Sign up for CodeWars.com
-5. [x] Attempt to solve one-to-three python challanges which are either `7kyu` or `8kyu`
+1. [ ] Read Lean Python, Chapters 1-2
+2. [ ] Install Python 3 / configure local development environment
+3. [ ] Read Lean Python, Chapters 3-6
+4. [ ] Sign up for CodeWars.com
+5. [ ] Attempt to solve one-to-three python challanges which are either `7kyu` or `8kyu`
 6. [ ] Read Lean Python, Chapters 6-8
 7. [ ] Read [Comparison of Python v2 vs v3 from python.org](https://wiki.python.org/moin/Python2orPython3)
 
@@ -43,7 +43,7 @@ If you are starting on week 0, skip any tasks that are repeated in later weeks&m
 Project Week
 
 1. [ ] Review the table of contents of [Learn Python the Hard Way](https://learnpythonthehardway.org/book/). Look for language facets that you do not recognize, and read their entries. Cross-reference with python documentation, if needed.
-2. [x] Solve three to five python challenges which are '`7kyu`'
+2. [ ] Solve three to five python challenges which are '`7kyu`'
 3. [ ] Choose and complete a project from the projects list.
 
 
@@ -51,7 +51,7 @@ Project Week
 
 _Challenges Week._
 
-1. [x] Solve as many python challenges which as possible to achieve '`7kyu`'/'`6kyu`'/'`5kyu`' rank on codewars.
+1. [ ] Solve as many python challenges which as possible to achieve '`7kyu`'/'`6kyu`'/'`5kyu`' rank on codewars.
 2. [ ] Choose and complete a project from the projects list.
 
 ## Projects
